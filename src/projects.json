@@ -1,0 +1,1253 @@
+[
+  {
+    "name": "Vercel Repos Dashboard",
+    "description": "Dashboard for managing and visualizing Vercel repositories",
+    "status": "Vercel",
+    "tags": [
+      "Vibe Coding",
+      "Data",
+      "Things to Share"
+    ],
+    "url": "https://vercel-repos-dashboard.vercel.app",
+    "editUrl": "",
+    "screenshot": "/screenshots/vercel-repos-dashboard.png"
+  },
+  {
+    "name": "Scroll Canvas",
+    "description": "Interactive scroll-based canvas and animation tool",
+    "status": "Vercel",
+    "tags": [
+      "Vibe Coding",
+      "Artificial Intelligence AI",
+      "Things to Share"
+    ],
+    "url": "https://scroll-canvas.vercel.app",
+    "editUrl": "",
+    "screenshot": "/screenshots/scroll-canvas.png"
+  },
+  {
+    "name": "FloodVision",
+    "description": "Flood monitoring and visualization system",
+    "status": "Vercel",
+    "tags": [
+      "Climate",
+      "Red Cross",
+      "Data",
+      "Things to Share"
+    ],
+    "url": "https://floodvision.vercel.app",
+    "editUrl": "",
+    "screenshot": "/screenshots/floodvision.png"
+  },
+  {
+    "name": "Animated Page Generator",
+    "description": "Tool for generating animated web pages with GSAP",
+    "status": "Vercel",
+    "tags": [
+      "Vibe Coding",
+      "Artificial Intelligence AI",
+      "Things to Share"
+    ],
+    "url": "https://animated-page-generator.vercel.app",
+    "editUrl": "",
+    "screenshot": "/screenshots/animated-page-generator.png"
+  },
+  {
+    "name": "Rescue Lens Claude",
+    "description": "AI-powered rescue and disaster response analysis tool",
+    "status": "Vercel",
+    "tags": [
+      "Red Cross",
+      "Artificial Intelligence AI",
+      "Vibe Coding",
+      "Things to Share"
+    ],
+    "url": "https://rescue-lens-claude.vercel.app",
+    "editUrl": "",
+    "screenshot": "/screenshots/rescue-lens-claude.png"
+  },
+  {
+    "name": "Store Status Monitor",
+    "description": "Real-time store and facility status monitoring system",
+    "status": "Vercel",
+    "tags": [
+      "Red Cross",
+      "Data",
+      "Vibe Coding",
+      "Things to Share"
+    ],
+    "url": "https://store-status-monitor.vercel.app",
+    "editUrl": "",
+    "screenshot": "/screenshots/store-status-monitor.png"
+  },
+  {
+    "name": "Repo Mind",
+    "description": "Repository analysis and management tool",
+    "status": "Vercel",
+    "tags": [
+      "Vibe Coding",
+      "Data",
+      "Things to Share"
+    ],
+    "url": "https://repo-mind.vercel.app",
+    "editUrl": "",
+    "screenshot": "/screenshots/repo-mind.png"
+  },
+  {
+    "name": "ARC Relationship Manager V3",
+    "description": "Enhanced relationship management for Red Cross operations",
+    "status": "Vercel",
+    "tags": [
+      "Red Cross",
+      "Data",
+      "Vibe Coding",
+      "Things to Share"
+    ],
+    "url": "https://arc-relationship-manager-v3.vercel.app",
+    "editUrl": "",
+    "screenshot": "/screenshots/arc-relationship-manager-v3.png"
+  },
+  {
+    "name": "ARC Relationship Manager V2",
+    "description": "Version 2 of Red Cross relationship management system",
+    "status": "Vercel",
+    "tags": [
+      "Red Cross",
+      "Data",
+      "Vibe Coding",
+      "Things to Share"
+    ],
+    "url": "https://arc-relationship-manager-v2.vercel.app",
+    "editUrl": "",
+    "screenshot": "/screenshots/arc-relationship-manager-v2.png"
+  },
+  {
+    "name": "ARC Relationship Manager Florida",
+    "description": "Florida-specific Red Cross relationship management",
+    "status": "Vercel",
+    "tags": [
+      "Red Cross",
+      "Data",
+      "Vibe Coding",
+      "Things to Share"
+    ],
+    "url": "https://arc-relationship-manager-florida.vercel.app",
+    "editUrl": "",
+    "screenshot": "/screenshots/arc-relationship-manager-florida.png"
+  },
+  {
+    "name": "Professional Portfolio V2",
+    "description": "Enhanced professional portfolio and showcase site",
+    "status": "Vercel",
+    "tags": [
+      "Personal",
+      "Vibe Coding",
+      "Things to Share"
+    ],
+    "url": "https://professional-portfolio-9vbf.vercel.app",
+    "editUrl": "",
+    "screenshot": "/screenshots/professional-portfolio-v2.png"
+  },
+  {
+    "name": "Professional Portfolio",
+    "description": "Personal portfolio and showcase website",
+    "status": "Vercel",
+    "tags": [
+      "Personal",
+      "Vibe Coding",
+      "Things to Share"
+    ],
+    "url": "https://professional-portfolio.vercel.app",
+    "editUrl": "",
+    "screenshot": "/screenshots/professional-portfolio.png"
+  },
+  {
+    "name": "Realie LandGlide Project",
+    "description": "Property analysis tool recreating LandGlide functionality",
+    "status": "Vercel",
+    "tags": [
+      "Realie",
+      "Data",
+      "Vibe Coding",
+      "Things to Share"
+    ],
+    "url": "https://realie-landglide-project.vercel.app",
+    "editUrl": "",
+    "screenshot": "/screenshots/realie-landglide-project.png"
+  },
+  {
+    "name": "Property Scope V2",
+    "description": "Enhanced property analysis and visualization tool",
+    "status": "Vercel",
+    "tags": [
+      "Realie",
+      "Data",
+      "Vibe Coding",
+      "Things to Share"
+    ],
+    "url": "https://propertyscope-v2.vercel.app",
+    "editUrl": "",
+    "screenshot": "/screenshots/property-scope-v2.png"
+  },
+  {
+    "name": "ESRI Docs Simplified",
+    "description": "Simplified documentation and guides for ESRI products",
+    "status": "Vercel",
+    "tags": [
+      "ArcGIS",
+      "Experience Builder",
+      "Things to Share"
+    ],
+    "url": "https://esri-docs-simplified.vercel.app",
+    "editUrl": "",
+    "screenshot": "/screenshots/esri-docs-simplified.png"
+  },
+  {
+    "name": "Mapping Resource Tool",
+    "description": "Comprehensive mapping and GIS resource management",
+    "status": "Vercel",
+    "tags": [
+      "ArcGIS",
+      "Data",
+      "Red Cross",
+      "Things to Share"
+    ],
+    "url": "https://mapping-resource-tool.vercel.app",
+    "editUrl": "",
+    "screenshot": "/screenshots/mapping-resource-tool.png"
+  },
+  {
+    "name": "AI Field Guide",
+    "description": "Interactive guide for AI tools and techniques",
+    "status": "Vercel",
+    "tags": [
+      "Artificial Intelligence AI",
+      "Vibe Coding",
+      "Things to Share"
+    ],
+    "url": "https://ai-field-guide.vercel.app",
+    "editUrl": "",
+    "screenshot": "/screenshots/ai-field-guide.png"
+  },
+  {
+    "name": "Hurricane Dashboard V2",
+    "description": "Hurricane tracking and monitoring dashboard for disaster response",
+    "status": "Vercel",
+    "tags": [
+      "Red Cross",
+      "Climate",
+      "Data",
+      "Things to Share"
+    ],
+    "url": "https://hurricane-dashboard-v2.vercel.app",
+    "editUrl": "",
+    "screenshot": "/screenshots/hurricane-dashboard-v2.png"
+  },
+  {
+    "name": "ARC Relationship Manager",
+    "description": "Relationship management tool for Red Cross operations",
+    "status": "Vercel",
+    "tags": [
+      "Red Cross",
+      "Data",
+      "Vibe Coding",
+      "Things to Share"
+    ],
+    "url": "https://arc-relationship-manager.vercel.app",
+    "editUrl": "",
+    "screenshot": "/screenshots/arc-relationship-manager.png"
+  },
+  {
+    "name": "Estate Management Tool",
+    "description": "Comprehensive estate management and tracking system",
+    "status": "Vercel",
+    "tags": [
+      "Vibe Coding",
+      "Personal",
+      "Things to Share"
+    ],
+    "url": "https://estate-management-tool.vercel.app",
+    "editUrl": "",
+    "screenshot": "/screenshots/estate-management-tool.png"
+  },
+  {
+    "name": "Community Mobilization Passport",
+    "description": "Digital passport system for community mobilization tracking",
+    "status": "Vercel",
+    "tags": [
+      "Community Mobilization",
+      "Red Cross",
+      "Vibe Coding",
+      "Things to Share"
+    ],
+    "url": "https://community-mobilization-passport.vercel.app",
+    "editUrl": "",
+    "screenshot": "/screenshots/community-mobilization-passport.png"
+  },
+  {
+    "name": "Grant Forge Tool",
+    "description": "Grant writing and management tool for nonprofit organizations",
+    "status": "Vercel",
+    "tags": [
+      "Vibe Coding",
+      "Red Cross",
+      "Things to Share"
+    ],
+    "url": "https://grant-forge-tool.vercel.app",
+    "editUrl": "",
+    "screenshot": "/screenshots/grant-forge-tool.png"
+  },
+  {
+    "name": "Realie",
+    "description": "Property analysis and LandGlide recreation tool",
+    "status": "Vercel",
+    "tags": [
+      "Realie",
+      "Data",
+      "Vibe Coding",
+      "Things to Share"
+    ],
+    "url": "https://realie.vercel.app",
+    "editUrl": "",
+    "screenshot": "/screenshots/realie.png"
+  },
+  {
+    "name": "Team Tracker",
+    "description": "Team management and tracking system for Red Cross operations",
+    "status": "Vercel",
+    "tags": [
+      "Red Cross",
+      "Data",
+      "Vibe Coding",
+      "Things to Share"
+    ],
+    "url": "https://team-tracker.vercel.app",
+    "editUrl": "",
+    "screenshot": "/screenshots/team-tracker.png"
+  },
+  {
+    "name": "Red Cross Donor Dashboard",
+    "description": "Comprehensive donor tracking and analytics dashboard",
+    "status": "Vercel",
+    "tags": [
+      "Red Cross",
+      "Data",
+      "Vibe Coding",
+      "Things to Share"
+    ],
+    "url": "https://redcross-donor-dashboard.vercel.app",
+    "editUrl": "",
+    "screenshot": "/screenshots/red-cross-donor-dashboard.png"
+  },
+  {
+    "name": "Weather Daily Report",
+    "description": "Python-based weather reporting and analysis tool on GitHub Pages",
+    "status": "Vercel",
+    "tags": [
+      "Climate",
+      "Data",
+      "Things to Share"
+    ],
+    "url": "https://franzenjb.github.io/weather-daily-report",
+    "editUrl": "",
+    "screenshot": "/screenshots/weather-daily-report.png"
+  },
+  {
+    "name": "Crisis Connect I",
+    "description": "AI Studio Crisis Connect AI Phone Input",
+    "status": "AIStudio",
+    "tags": [
+      "Call Center",
+      "Crisis Intake"
+    ],
+    "url": "https://crisisconnect-intake-920791670943.us-west1.run.app/",
+    "editUrl": "https://aistudio.google.com/apps/drive/1cdeCmdV3WexV4NRLVTlKXlyYsUNz5GRZ?showPreview=true&showAssistant=true",
+    "screenshot": "/screenshots/crisis-connect-i.png"
+  },
+  {
+    "name": "RescueLens",
+    "description": "AI analysis of residential damage",
+    "status": "AIStudio",
+    "tags": [
+      "Rescue Lens",
+      "Home Damage",
+      "FEMA"
+    ],
+    "url": "https://rescuelens-ai-disaster-response-analyzer-920791670943.us-west1.run.app/",
+    "editUrl": "https://aistudio.google.com/apps/drive/1eNDJYBH8NYZXoy0aC2HUrAvIvxOLI_67?showPreview=true&showAssistant=true",
+    "screenshot": "/screenshots/rescuelens.png"
+  },
+  {
+    "name": "Crisis Connect II",
+    "description": "AI Studio Crisis Connect AI Phone Input with Photo",
+    "status": "AIStudio",
+    "tags": [
+      "Call Center",
+      "Crisis Intake"
+    ],
+    "url": "https://crisisconnect-ii-disaster-response-920791670943.us-west1.run.app/",
+    "editUrl": "https://aistudio.google.com/apps/drive/1Y0q0v4X3RSRf6H9UYcRfFw--eLKZjLRp?showPreview=true&showAssistant=true",
+    "screenshot": "/screenshots/crisis-connect-ii.png"
+  },
+  {
+    "name": "Crisis Connect Beta",
+    "description": "AI Studio Crisis Connect AI Phone Input",
+    "status": "AIStudio",
+    "tags": [
+      "Call Center",
+      "Crisis Intake"
+    ],
+    "url": "https://red-cross-ai-operator-920791670943.us-west1.run.app/",
+    "editUrl": "https://aistudio.google.com/apps/drive/1LGQtM-BMaMqIg1jCjMwPB-KFTyg4GcM4?showPreview=true&showAssistant=true",
+    "screenshot": "/screenshots/crisis-connect-beta.png"
+  },
+  {
+    "name": "Stock Ticker",
+    "description": "Stock Ticker",
+    "status": "AIStudio",
+    "tags": [
+      "Stock Ticker"
+    ],
+    "url": "https://flash-ui-920791670943.us-west1.run.app/",
+    "editUrl": "https://aistudio.google.com/apps/bundled/flash_ui?showPreview=true&showAssistant=true",
+    "screenshot": "/screenshots/stock-ticker.png"
+  },
+  {
+    "name": "Clara Barton",
+    "description": "Clara Barton Tour",
+    "status": "AIStudio",
+    "tags": [
+      "Clara Barton"
+    ],
+    "url": "https://in-the-footsteps-of-clara-barton-920791670943.us-west1.run.app/",
+    "editUrl": "https://aistudio.google.com/apps/drive/1BZiDZgfeM17lD-sYn_uVfGSvq6UwOnzK?showPreview=true&showAssistant=true",
+    "screenshot": "/screenshots/clara-barton.png"
+  },
+  {
+    "name": "Socratic Architect ",
+    "description": "Socratic architect creator for prompts and websites ",
+    "status": "AIStudio",
+    "tags": [
+      "Socratic",
+      "app creator"
+    ],
+    "url": "https://socratic-architect-252281512384.us-west1.run.app/",
+    "editUrl": "https://aistudio.google.com/apps/drive/1LawgSDDdzRpU2ctfWd5P8l_0pcDiTaP9?showPreview=true&showAssistant=true",
+    "screenshot": "/screenshots/socratic-architect-.png"
+  },
+  {
+    "name": "weather-daily-report",
+    "description": "Repository: weather-daily-report",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/weather-daily-report/",
+    "editUrl": "https://github.com/franzenjb/weather-daily-report",
+    "screenshot": "/screenshots/weather-daily-report.png"
+  },
+  {
+    "name": "api-agent-demo",
+    "description": "Repository: api-agent-demo",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/api-agent-demo/",
+    "editUrl": "https://github.com/franzenjb/api-agent-demo",
+    "screenshot": "/screenshots/api-agent-demo.png"
+  },
+  {
+    "name": "bookmark-alpha",
+    "description": "\ud83d\udd16 A groundbreaking visual bookmark management system - Organize any bookmarks with images, budgets, and categories",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/bookmark-alpha/",
+    "editUrl": "https://github.com/franzenjb/bookmark-alpha",
+    "screenshot": "/screenshots/bookmark-alpha.png"
+  },
+  {
+    "name": "furniture-catalog",
+    "description": "Repository: furniture-catalog",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/furniture-catalog/",
+    "editUrl": "https://github.com/franzenjb/furniture-catalog",
+    "screenshot": "/screenshots/furniture-catalog.png"
+  },
+  {
+    "name": "GeoJSON-Creation-Tool",
+    "description": "Repository: GeoJSON-Creation-Tool",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/GeoJSON-Creation-Tool/",
+    "editUrl": "https://github.com/franzenjb/GeoJSON-Creation-Tool",
+    "screenshot": "/screenshots/geojson-creation-tool.png"
+  },
+  {
+    "name": "geospatial-tools-explorer",
+    "description": "Interactive showcase of cutting-edge geospatial tools from The Spatial Edge Newsletter",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/geospatial-tools-explorer/",
+    "editUrl": "https://github.com/franzenjb/geospatial-tools-explorer",
+    "screenshot": "/screenshots/geospatial-tools-explorer.png"
+  },
+  {
+    "name": "suncoast-mobile",
+    "description": "Hurricane tracking application for the Suncoast region",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/suncoast-mobile/",
+    "editUrl": "https://github.com/franzenjb/suncoast-mobile",
+    "screenshot": "/screenshots/suncoast-mobile.png"
+  },
+  {
+    "name": "CommMob-Data-Analytics",
+    "description": "American Red Cross Data Analytics Platform - Professional UI/UX with interactive maps, advanced analytics, and AI-powered insights",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/CommMob-Data-Analytics/",
+    "editUrl": "https://github.com/franzenjb/CommMob-Data-Analytics",
+    "screenshot": "/screenshots/commmob-data-analytics.png"
+  },
+  {
+    "name": "mapping-resource-tool",
+    "description": "Repository: mapping-resource-tool",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/mapping-resource-tool/",
+    "editUrl": "https://github.com/franzenjb/mapping-resource-tool",
+    "screenshot": "/screenshots/mapping-resource-tool.png"
+  },
+  {
+    "name": "hurricane-dashboard-v2",
+    "description": "Repository: hurricane-dashboard-v2",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/hurricane-dashboard-v2/",
+    "editUrl": "https://github.com/franzenjb/hurricane-dashboard-v2",
+    "screenshot": "/screenshots/hurricane-dashboard-v2.png"
+  },
+  {
+    "name": "CommMob-Volunteer-Applicants",
+    "description": "Web application for processing and merging volunteer/applicant data for ArcGIS feature layers with comprehensive reporting and validation",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/CommMob-Volunteer-Applicants/",
+    "editUrl": "https://github.com/franzenjb/CommMob-Volunteer-Applicants",
+    "screenshot": "/screenshots/commmob-volunteer-applicants.png"
+  },
+  {
+    "name": "alice_master_database",
+    "description": "ALICE economic vulnerability data for 33 US states with Red Cross organizational boundaries and demographics",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/alice_master_database/",
+    "editUrl": "https://github.com/franzenjb/alice_master_database",
+    "screenshot": "/screenshots/alice_master_database.png"
+  },
+  {
+    "name": "redcross-donor-map",
+    "description": "Interactive American Red Cross Donor Map Visualization",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/redcross-donor-map/",
+    "editUrl": "https://github.com/franzenjb/redcross-donor-map",
+    "screenshot": "/screenshots/redcross-donor-map.png"
+  },
+  {
+    "name": "orgler-arcgis-dashboard",
+    "description": "Private Orgler to ArcGIS Dashboard converter with confidential data support",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/orgler-arcgis-dashboard/",
+    "editUrl": "https://github.com/franzenjb/orgler-arcgis-dashboard",
+    "screenshot": "/screenshots/orgler-arcgis-dashboard.png"
+  },
+  {
+    "name": "redcross-mega-orgchart",
+    "description": "Repository: redcross-mega-orgchart",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/redcross-mega-orgchart/",
+    "editUrl": "https://github.com/franzenjb/redcross-mega-orgchart",
+    "screenshot": "/screenshots/redcross-mega-orgchart.png"
+  },
+  {
+    "name": "hurricane-aid-supabase-advanced",
+    "description": "\ud83c\udfd7\ufe0f Advanced Hurricane Aid System - Supabase + PostGIS + Real-time Database (Production-Ready)",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/hurricane-aid-supabase-advanced/",
+    "editUrl": "https://github.com/franzenjb/hurricane-aid-supabase-advanced",
+    "screenshot": "/screenshots/hurricane-aid-supabase-advanced.png"
+  },
+  {
+    "name": "IAP-Master-Project",
+    "description": "Event-sourced Red Cross Disaster Operations Platform with dual-database architecture",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/IAP-Master-Project/",
+    "editUrl": "https://github.com/franzenjb/IAP-Master-Project",
+    "screenshot": "/screenshots/iap-master-project.png"
+  },
+  {
+    "name": "gemini-image-studio",
+    "description": "Repository: gemini-image-studio",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/gemini-image-studio/",
+    "editUrl": "https://github.com/franzenjb/gemini-image-studio",
+    "screenshot": "/screenshots/gemini-image-studio.png"
+  },
+  {
+    "name": "disaster-ops-v3",
+    "description": "American Red Cross Disaster Operations Platform - Phase 3 Advanced Features Complete",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/disaster-ops-v3/",
+    "editUrl": "https://github.com/franzenjb/disaster-ops-v3",
+    "screenshot": "/screenshots/disaster-ops-v3.png"
+  },
+  {
+    "name": "disaster-operations-platform",
+    "description": "Repository: disaster-operations-platform",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/disaster-operations-platform/",
+    "editUrl": "https://github.com/franzenjb/disaster-operations-platform",
+    "screenshot": "/screenshots/disaster-operations-platform.png"
+  },
+  {
+    "name": "infrastructure-tool-v2",
+    "description": "Repository: infrastructure-tool-v2",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/infrastructure-tool-v2/",
+    "editUrl": "https://github.com/franzenjb/infrastructure-tool-v2",
+    "screenshot": "/screenshots/infrastructure-tool-v2.png"
+  },
+  {
+    "name": "5266-v2",
+    "description": "Red Cross Form 5266 Digital Transformation - Real-time Operational Insights Platform",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/5266-v2/",
+    "editUrl": "https://github.com/franzenjb/5266-v2",
+    "screenshot": "/screenshots/5266-v2.png"
+  },
+  {
+    "name": "red-cross-call-center",
+    "description": "Interactive dashboard showing Red Cross disaster response call center data across the United States",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/red-cross-call-center/",
+    "editUrl": "https://github.com/franzenjb/red-cross-call-center",
+    "screenshot": "/screenshots/red-cross-call-center.png"
+  },
+  {
+    "name": "community-resilience-suite",
+    "description": "Community resilience tools for disaster preparedness and recovery",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/community-resilience-suite/",
+    "editUrl": "https://github.com/franzenjb/community-resilience-suite",
+    "screenshot": "/screenshots/community-resilience-suite.png"
+  },
+  {
+    "name": "geojson-pipeline-tools",
+    "description": "Repository: geojson-pipeline-tools",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/geojson-pipeline-tools/",
+    "editUrl": "https://github.com/franzenjb/geojson-pipeline-tools",
+    "screenshot": "/screenshots/geojson-pipeline-tools.png"
+  },
+  {
+    "name": "arcgis-oauth-tools",
+    "description": "Internal ArcGIS OAuth-powered tools and dashboards for Red Cross GIS work",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/arcgis-oauth-tools/",
+    "editUrl": "https://github.com/franzenjb/arcgis-oauth-tools",
+    "screenshot": "/screenshots/arcgis-oauth-tools.png"
+  },
+  {
+    "name": "infrastructure-search-tool",
+    "description": " HIFLD Infrastructure Search and Mapping Tool",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/infrastructure-search-tool/",
+    "editUrl": "https://github.com/franzenjb/infrastructure-search-tool",
+    "screenshot": "/screenshots/infrastructure-search-tool.png"
+  },
+  {
+    "name": "portfolio-showcase",
+    "description": "Repository: portfolio-showcase",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/portfolio-showcase/",
+    "editUrl": "https://github.com/franzenjb/portfolio-showcase",
+    "screenshot": "/screenshots/portfolio-showcase.png"
+  },
+  {
+    "name": "redcross-overview",
+    "description": "Interactive learning platform for American Red Cross programs and services. Quiz mode, flashcards, and progress tracking.",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/redcross-overview/",
+    "editUrl": "https://github.com/franzenjb/redcross-overview",
+    "screenshot": "/screenshots/redcross-overview.png"
+  },
+  {
+    "name": "orgler-conversion",
+    "description": "Repository: orgler-conversion",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/orgler-conversion/",
+    "editUrl": "https://github.com/franzenjb/orgler-conversion",
+    "screenshot": "/screenshots/orgler-conversion.png"
+  },
+  {
+    "name": "alice-demographics",
+    "description": "Interactive Census Demographics Visualization with Dual-Range Sliders",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/alice-demographics/",
+    "editUrl": "https://github.com/franzenjb/alice-demographics",
+    "screenshot": "/screenshots/alice-demographics.png"
+  },
+  {
+    "name": "alice-data-mapper",
+    "description": "Repository: alice-data-mapper",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/alice-data-mapper/",
+    "editUrl": "https://github.com/franzenjb/alice-data-mapper",
+    "screenshot": "/screenshots/alice-data-mapper.png"
+  },
+  {
+    "name": "secar-weather-update",
+    "description": "Situational Emergency Coordination and Assessment Resource - Claude integration",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/secar-weather-update/",
+    "editUrl": "https://github.com/franzenjb/secar-weather-update",
+    "screenshot": "/screenshots/secar-weather-update.png"
+  },
+  {
+    "name": "redcross-maps-search",
+    "description": "Enhanced search portal for American Red Cross maps and disaster response resources - 949 searchable resources with intelligent filtering",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/redcross-maps-search/",
+    "editUrl": "https://github.com/franzenjb/redcross-maps-search",
+    "screenshot": "/screenshots/redcross-maps-search.png"
+  },
+  {
+    "name": "alice-redcross-atlas",
+    "description": "Red Cross Community Vulnerability Atlas - Interactive ALICE data intelligence platform with 85,846 enriched records across 212 chapters",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/alice-redcross-atlas/",
+    "editUrl": "https://github.com/franzenjb/alice-redcross-atlas",
+    "screenshot": "/screenshots/alice-redcross-atlas.png"
+  },
+  {
+    "name": "Administration",
+    "description": "Administration repository",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/Administration/",
+    "editUrl": "https://github.com/franzenjb/Administration",
+    "screenshot": "/screenshots/administration.png"
+  },
+  {
+    "name": "hurricane-aid-map",
+    "description": "\ud83d\uddc3\ufe0f ARCHIVED - Old system replaced by: hurricane-aid-google-simple (fast) & hurricane-aid-supabase-advanced (powerful)",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/hurricane-aid-map/",
+    "editUrl": "https://github.com/franzenjb/hurricane-aid-map",
+    "screenshot": "/screenshots/hurricane-aid-map.png"
+  },
+  {
+    "name": "hurricane-aid-production",
+    "description": "\ud83d\uddc3\ufe0f ARCHIVED - Mixed system split into: hurricane-aid-google-simple (fast) & hurricane-aid-supabase-advanced (powerful)",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/hurricane-aid-production/",
+    "editUrl": "https://github.com/franzenjb/hurricane-aid-production",
+    "screenshot": "/screenshots/hurricane-aid-production.png"
+  },
+  {
+    "name": "flood-vulnerability-mapper-experiments",
+    "description": "Repository: flood-vulnerability-mapper-experiments",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/flood-vulnerability-mapper-experiments/",
+    "editUrl": "https://github.com/franzenjb/flood-vulnerability-mapper-experiments",
+    "screenshot": "/screenshots/flood-vulnerability-mapper-experiments.png"
+  },
+  {
+    "name": "flood-vulnerability-mapper",
+    "description": "Advanced flood vulnerability analysis using LISA spatial analysis and Social Vulnerability Index",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/flood-vulnerability-mapper/",
+    "editUrl": "https://github.com/franzenjb/flood-vulnerability-mapper",
+    "screenshot": "/screenshots/flood-vulnerability-mapper.png"
+  },
+  {
+    "name": "disaster-signal-tracker",
+    "description": "Real-time disaster tracking system combining NOAA weather alerts, USGS earthquakes, and NASA wildfire data with interactive mapping",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/disaster-signal-tracker/",
+    "editUrl": "https://github.com/franzenjb/disaster-signal-tracker",
+    "screenshot": "/screenshots/disaster-signal-tracker.png"
+  },
+  {
+    "name": "hurricane-aid-google-simple",
+    "description": "\ud83d\uddfa\ufe0f Simple Hurricane Aid System - Google Forms + Google Sheets + Google My Maps (No Database Required)",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/hurricane-aid-google-simple/",
+    "editUrl": "https://github.com/franzenjb/hurricane-aid-google-simple",
+    "screenshot": "/screenshots/hurricane-aid-google-simple.png"
+  },
+  {
+    "name": "living-atlas-explorer",
+    "description": "Living Atlas Explorer for American Red Cross - National disaster response, demographics, and infrastructure mapping",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/living-atlas-explorer/",
+    "editUrl": "https://github.com/franzenjb/living-atlas-explorer",
+    "screenshot": "/screenshots/living-atlas-explorer.png"
+  },
+  {
+    "name": "codex-cli-companion",
+    "description": "Repository: codex-cli-companion",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/codex-cli-companion/",
+    "editUrl": "https://github.com/franzenjb/codex-cli-companion",
+    "screenshot": "/screenshots/codex-cli-companion.png"
+  },
+  {
+    "name": "claude-code-cli-guide",
+    "description": "World-class guide to Claude Code CLI tools, commands, and workflows",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/claude-code-cli-guide/",
+    "editUrl": "https://github.com/franzenjb/claude-code-cli-guide",
+    "screenshot": "/screenshots/claude-code-cli-guide.png"
+  },
+  {
+    "name": "NOSBeta",
+    "description": "Repository: NOSBeta",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/NOSBeta/",
+    "editUrl": "https://github.com/franzenjb/NOSBeta",
+    "screenshot": "/screenshots/nosbeta.png"
+  },
+  {
+    "name": "redcross-fire-alarms-dashboard",
+    "description": "American Red Cross Homes Made Safer Dashboard (2015-2025) - Tracking 271,893 fire alarm installations",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/redcross-fire-alarms-dashboard/",
+    "editUrl": "https://github.com/franzenjb/redcross-fire-alarms-dashboard",
+    "screenshot": "/screenshots/redcross-fire-alarms-dashboard.png"
+  },
+  {
+    "name": "portfolio-flood-analysis",
+    "description": "Repository: portfolio-flood-analysis",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/portfolio-flood-analysis/",
+    "editUrl": "https://github.com/franzenjb/portfolio-flood-analysis",
+    "screenshot": "/screenshots/portfolio-flood-analysis.png"
+  },
+  {
+    "name": "applicants-dashboard",
+    "description": "Repository: applicants-dashboard",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/applicants-dashboard/",
+    "editUrl": "https://github.com/franzenjb/applicants-dashboard",
+    "screenshot": "/screenshots/applicants-dashboard.png"
+  },
+  {
+    "name": "arcgis-red-cross-playground",
+    "description": "Repository: arcgis-red-cross-playground",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/arcgis-red-cross-playground/",
+    "editUrl": "https://github.com/franzenjb/arcgis-red-cross-playground",
+    "screenshot": "/screenshots/arcgis-red-cross-playground.png"
+  },
+  {
+    "name": "choropleth-mapper",
+    "description": "Transform CSV data into ArcGIS-ready choropleth maps. Automatic geographic boundary fetching and data joining for counties, ZIP codes, census tracts, and more.",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/choropleth-mapper/",
+    "editUrl": "https://github.com/franzenjb/choropleth-mapper",
+    "screenshot": "/screenshots/choropleth-mapper.png"
+  },
+  {
+    "name": "bivariate-choropleth-tool",
+    "description": "Repository: bivariate-choropleth-tool",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/bivariate-choropleth-tool/",
+    "editUrl": "https://github.com/franzenjb/bivariate-choropleth-tool",
+    "screenshot": "/screenshots/bivariate-choropleth-tool.png"
+  },
+  {
+    "name": "universal-choropleth-tool",
+    "description": "Repository: universal-choropleth-tool",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/universal-choropleth-tool/",
+    "editUrl": "https://github.com/franzenjb/universal-choropleth-tool",
+    "screenshot": "/screenshots/universal-choropleth-tool.png"
+  },
+  {
+    "name": "home-inventory-tracker",
+    "description": "Comprehensive home inventory and purchase tracking system with budget management, delivery tracking, and room organization",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/home-inventory-tracker/",
+    "editUrl": "https://github.com/franzenjb/home-inventory-tracker",
+    "screenshot": "/screenshots/home-inventory-tracker.png"
+  },
+  {
+    "name": "dat-new-day-project",
+    "description": "Repository: dat-new-day-project",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/dat-new-day-project/",
+    "editUrl": "https://github.com/franzenjb/dat-new-day-project",
+    "screenshot": "/screenshots/dat-new-day-project.png"
+  },
+  {
+    "name": "cap-charts-showcase",
+    "description": "Repository: cap-charts-showcase",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/cap-charts-showcase/",
+    "editUrl": "https://github.com/franzenjb/cap-charts-showcase",
+    "screenshot": "/screenshots/cap-charts-showcase.png"
+  },
+  {
+    "name": "store-status-monitor",
+    "description": "Emergency response tool for monitoring store operational status during disasters",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/store-status-monitor/",
+    "editUrl": "https://github.com/franzenjb/store-status-monitor",
+    "screenshot": "/screenshots/store-status-monitor.png"
+  },
+  {
+    "name": "nonprofit-partner-finder",
+    "description": "AI-powered system for identifying nonprofit partners aligned with Red Cross mission",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/nonprofit-partner-finder/",
+    "editUrl": "https://github.com/franzenjb/nonprofit-partner-finder",
+    "screenshot": "/screenshots/nonprofit-partner-finder.png"
+  },
+  {
+    "name": "info-database",
+    "description": "Repository: info-database",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/info-database/",
+    "editUrl": "https://github.com/franzenjb/info-database",
+    "screenshot": "/screenshots/info-database.png"
+  },
+  {
+    "name": "NEW_4_Color_Theorem",
+    "description": "Repository: NEW_4_Color_Theorem",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/NEW_4_Color_Theorem/",
+    "editUrl": "https://github.com/franzenjb/NEW_4_Color_Theorem",
+    "screenshot": "/screenshots/new_4_color_theorem.png"
+  },
+  {
+    "name": "redcross-training-search",
+    "description": "Modern searchable portal for American Red Cross training courses with advanced filtering and bookmarking",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/redcross-training-search/",
+    "editUrl": "https://github.com/franzenjb/redcross-training-search",
+    "screenshot": "/screenshots/redcross-training-search.png"
+  },
+  {
+    "name": "hurricane-alert-dashboard",
+    "description": "Repository: hurricane-alert-dashboard",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/hurricane-alert-dashboard/",
+    "editUrl": "https://github.com/franzenjb/hurricane-alert-dashboard",
+    "screenshot": "/screenshots/hurricane-alert-dashboard.png"
+  },
+  {
+    "name": "nfirs-rc-gap-analysis",
+    "description": "AI-Powered NFIRS/RC Care Service Gap Analysis Dashboard - Demonstrating Claude's capabilities for identifying missed service opportunities",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/nfirs-rc-gap-analysis/",
+    "editUrl": "https://github.com/franzenjb/nfirs-rc-gap-analysis",
+    "screenshot": "/screenshots/nfirs-rc-gap-analysis.png"
+  },
+  {
+    "name": "iap-management-system",
+    "description": "IAP Management System - Modern Incident Action Plan management for Red Cross disaster operations",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/iap-management-system/",
+    "editUrl": "https://github.com/franzenjb/iap-management-system",
+    "screenshot": "/screenshots/iap-management-system.png"
+  },
+  {
+    "name": "Atlantic-Gulf-Hurricanes",
+    "description": "Interactive visualization of all Atlantic and Gulf of Mexico hurricanes from HURDAT2 database (1851-2024)",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/Atlantic-Gulf-Hurricanes/",
+    "editUrl": "https://github.com/franzenjb/Atlantic-Gulf-Hurricanes",
+    "screenshot": "/screenshots/atlantic-gulf-hurricanes.png"
+  },
+  {
+    "name": "hurricane-milton-report",
+    "description": "Repository: hurricane-milton-report",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/hurricane-milton-report/",
+    "editUrl": "https://github.com/franzenjb/hurricane-milton-report",
+    "screenshot": "/screenshots/hurricane-milton-report.png"
+  },
+  {
+    "name": "florida-menu",
+    "description": "Repository: florida-menu",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/florida-menu/",
+    "editUrl": "https://github.com/franzenjb/florida-menu",
+    "screenshot": "/screenshots/florida-menu.png"
+  },
+  {
+    "name": "arcgis-summary",
+    "description": "Repository: arcgis-summary",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/arcgis-summary/",
+    "editUrl": "https://github.com/franzenjb/arcgis-summary",
+    "screenshot": "/screenshots/arcgis-summary.png"
+  },
+  {
+    "name": "arcgis-menu",
+    "description": "Repository: arcgis-menu",
+    "status": "GitHub Pages",
+    "tags": [
+      "GitHub Pages"
+    ],
+    "url": "https://franzenjb.github.io/arcgis-menu/",
+    "editUrl": "https://github.com/franzenjb/arcgis-menu",
+    "screenshot": "/screenshots/arcgis-menu.png"
+  },
+  {
+    "name": "Community Mobilization Mapper",
+    "description": "Map community assets, risks, and recommend adaptation efforts using AI",
+    "status": "Opal",
+    "tags": [
+      "Opal",
+      "Red Cross",
+      "Artificial Intelligence AI",
+      "Community"
+    ],
+    "url": "https://opal.google/?flow=drive:/1mHB3uaNs_oENU61kfhBDhXqeoG8RGbx1&shared&mode=app",
+    "editUrl": "https://opal.google/?flow=drive:/1mHB3uaNs_oENU61kfhBDhXqeoG8RGbx1&shared&mode=canvas",
+    "screenshot": "/screenshots/opal-community-mobilization-mapper.png"
+  },
+  {
+    "name": "Disaster Intake",
+    "description": "AI-driven tool for critical post-disaster information gathering and urgent needs assessment",
+    "status": "Opal",
+    "tags": [
+      "Opal",
+      "Red Cross",
+      "Artificial Intelligence AI",
+      "Disaster"
+    ],
+    "url": "https://opal.google/?flow=drive:/1625bszoW5J5Q27cnkWu3Wr050FpYCHZB&shared&mode=app",
+    "editUrl": "https://opal.google/?flow=drive:/1625bszoW5J5Q27cnkWu3Wr050FpYCHZB&shared&mode=canvas",
+    "screenshot": "/screenshots/opal-disaster-intake.png"
+  },
+  {
+    "name": "FloodSense",
+    "description": "Visualize flood damage and assess risk for any US address",
+    "status": "Opal",
+    "tags": [
+      "Opal",
+      "Climate",
+      "Artificial Intelligence AI",
+      "Flood"
+    ],
+    "url": "https://opal.google/?flow=drive:/1eyVuxc6goRoFrBQ3ytEYzP1dT03-Kbrw&shared&mode=app",
+    "editUrl": "https://opal.google/?flow=drive:/1eyVuxc6goRoFrBQ3ytEYzP1dT03-Kbrw&shared&mode=canvas",
+    "screenshot": "/screenshots/opal-floodsense.png"
+  },
+  {
+    "name": "In the Footsteps of Clara Barton",
+    "description": "A four-day journey through Washington D.C. exploring the places that shaped America's greatest humanitarian and founder of the American Red Cross",
+    "status": "Netlify",
+    "tags": [
+      "Netlify",
+      "Red Cross",
+      "Clara Barton",
+      "Things to Share"
+    ],
+    "url": "https://clarabartondc.netlify.app/",
+    "editUrl": "https://github.com/franzenjb/clara-barton-dc",
+    "screenshot": "/screenshots/clara-barton-dc.png"
+  }
+]
