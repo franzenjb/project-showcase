@@ -1,5 +1,20 @@
 [
   {
+    "name": "Shelter Proximity Analyzer",
+    "description": "Find closest shelters to any disaster location using Geocodio API. Calculates distances and travel times for emergency response planning.",
+    "status": "Vercel",
+    "tags": [
+      "Red Cross",
+      "Disaster",
+      "GIS",
+      "Tools",
+      "Things to Share"
+    ],
+    "url": "https://shelter-proximity-analyzer.vercel.app/",
+    "editUrl": "",
+    "screenshot": "/screenshots/shelter-proximity-analyzer.png"
+  },
+  {
     "name": "Vercel Repos Dashboard",
     "description": "Dashboard for managing and visualizing Vercel repositories",
     "status": "Vercel",
